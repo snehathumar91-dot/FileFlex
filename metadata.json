@@ -1,0 +1,8 @@
+{
+  "name": "FileFlex",
+  "description": "A comprehensive self-hosted PDF and file conversion tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
